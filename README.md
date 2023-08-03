@@ -11,3 +11,4 @@ Overall, this internship report serves as a comprehensive account of the purpose
 1.1	PROJECT DEFINITION
 
 Aim: configuration of on-premises to hub and spoke connectivity using s2s tunneling from on-premises and hub and transit vnet peering from hub to spoke. Configure rras on on- premises vm and establish s2s connectivity to the hub. The on-premises vm should be able to ping both hub vm and spoke vm successfully. The connectivity should be bi-directional. There is no direct connectivity established between spoke and on-premises vnet.
+
